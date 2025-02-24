@@ -169,6 +169,6 @@ The output for option P looks like:
  2. Add diagrams for intuitive visualization
  
 ### Team
-Pooja Mahajan
-Sreelaxmi Narayan
+Shubham Srivastava
+
  
